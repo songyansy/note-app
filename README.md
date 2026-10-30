@@ -10,7 +10,7 @@
 - 本地持久化存储
 
 ## 技术栈
-- Next.js 15（App Router）
+- Next.js 16.4.2（App Router）
 - React 19
 - TypeScript
 - Tailwind CSS
@@ -18,7 +18,7 @@
 - Zustand（+ persist 中间件）
 
 ## 在线预览
-https://note-app-xxx.vercel.app
+https://warm-brioche-acdec8.netlify.app/
 
 ## 本地运行
 ```bash
