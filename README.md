@@ -18,7 +18,7 @@
 - Zustand（+ persist 中间件）
 
 ## 在线预览
-https://warm-brioche-acdec8.netlify.app/
+https://yansong-note.netlify.app/
 
 ## 本地运行
 ```bash
